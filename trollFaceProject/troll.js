@@ -1,10 +1,10 @@
 let trollImages = [
-  "https://imgur.com/a/B8KcSwL",
-  "https://imgur.com/a/IfNvrFT",
-  "https://imgur.com/a/cZNA1J6",
-  "https://imgur.com/a/7dTjHnV",
-  "https://imgur.com/a/niNqIRa",
-  "https://imgur.com/a/psum6xU",
+ "https://bit.ly/3Ck6DTU",
+  "https://bit.ly/3ozQCVk",
+  "https://bit.ly/3omYDN6",
+  "https://bit.ly/3osrfoi",
+  "https://bit.ly/3qCPjax",
+  "https://bit.ly/3CkRXE6",
 ];
 const imgs = document.getElementsByTagName("img");
 for (image of imgs) {
