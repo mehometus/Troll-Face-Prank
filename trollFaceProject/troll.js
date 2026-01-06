@@ -11,3 +11,9 @@ for (image of imgs) {
   const index = Math.floor(Math.random() * trollImages.length);
   image.src = trollImages[index];
 }
+
+// Replace images immediately when page loads
+replaceImages();
+
+// Keep replacing images every 2 seconds to catch new ones as you scroll
+setInterval(replaceImages, 2000);
